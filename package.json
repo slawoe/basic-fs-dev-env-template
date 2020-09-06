@@ -5,7 +5,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "cd client && npm test",
+    "test": "npm run lint && cd client && npm test",
     "prettify": "prettier --write .",
     "start": "node server.js",
     "lint": "eslint . --ext .js"
