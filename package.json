@@ -5,6 +5,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "build": "cd client && npm run build",
     "test": "npm run lint && cd client && npm test",
     "prettify": "prettier --write .",
     "start": "node server.js",
