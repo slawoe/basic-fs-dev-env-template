@@ -1,5 +1,6 @@
 {
   "name": "basic-fs-dev-env-template",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +12,8 @@
     "url": "git+https://github.com/slawoe/basic-fs-dev-env-template.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Slawomir Ernst",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/slawoe/basic-fs-dev-env-template/issues"
   },
