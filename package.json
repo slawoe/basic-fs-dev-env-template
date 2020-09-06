@@ -7,7 +7,8 @@
   "scripts": {
     "test": "cd client && npm test",
     "prettify": "prettier --write .",
-    "start": "node server.js"
+    "start": "node server.js",
+    "lint": "eslint . --ext .js"
   },
   "repository": {
     "type": "git",
