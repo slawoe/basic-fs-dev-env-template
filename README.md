@@ -2,4 +2,4 @@
 
 # basic-fs-dev-env-template
 
-Express server with CRA, ESLint, GitHooks, Prettier and Storybook
+Express server with CRA, ESLint, GitHooks, Prettier, Nodemon, Concurrently and Storybook
