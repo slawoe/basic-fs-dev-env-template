@@ -2,4 +2,6 @@
 
 # basic-fs-dev-env-template
 
+MERN-STACK-BOILERPLATE
+
 Express server with CRA, ESLint, GitHooks, Prettier, Nodemon, Concurrently and Storybook
