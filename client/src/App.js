@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <GlobalStyles />
-      Let the show begin!
+      Hello world!
     </>
   );
 }
