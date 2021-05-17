@@ -2,6 +2,6 @@
 
 # MERN-STACK-BOILERPLATE
 
-## Remember to change the CI Badge link!
+Remember to change the CI Badge link!
 
 Express server with CRA, ESLint, GitHooks, Prettier, Nodemon, Concurrently and Storybook
